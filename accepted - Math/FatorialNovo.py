@@ -6,7 +6,7 @@
 # Disciplina: Algoritmos Avançados
   
 # Problema: Fatorial de Novo!
-# Nivel: 3
+# Nivel: 4
 
 def fatorial(n):
     if n < 1:
