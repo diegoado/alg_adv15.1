@@ -1,4 +1,3 @@
-    
 # -*- coding: utf-8 -*-
      
 # Universidade Federal de Campina Grande
