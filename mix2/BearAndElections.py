@@ -30,7 +30,7 @@ while votes[0] <= votes[index]:
         index = 1
     elif votes[1] > votes[index]:
         index = 1
-        votes[1:] = sorted(votes[1:], reverse=True)
+        votes[1:] = sorted(votes[1:index], reverse=True)
     elif votes[index] < votes[index + 1]:
         index += 1
 
