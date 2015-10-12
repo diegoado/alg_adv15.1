@@ -6,7 +6,7 @@
 # Discipline: Algoritmos Avançados
 
 # Code forces
-# Problem: 571A - A. MUH and Import Thing
+# Problem: 571B - B. MUH and Import Thing
 # Time limit per test: 1 second
 # Memory limit per test: 256 megabytes
 # Input: standard input
