@@ -6,7 +6,7 @@
 # Discipline: Algoritmos Avançados
 
 # Code forces
-# Problem: 569A - B. Chat Online
+# Problem: 569B - B. Chat Online
 # Time limit per test: 1 second
 # Memory limit per test: 256 megabytes
 # Input: standard input
