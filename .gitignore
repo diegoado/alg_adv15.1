@@ -6,3 +6,7 @@
 # Folders
 /.settings
 /.idea
+/Debug/
+
+# Files
+CMakeLists.txt
