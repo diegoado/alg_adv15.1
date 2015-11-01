@@ -1,8 +1,12 @@
 # Eclipse Files
 .pydevproject
 .project
-
+.cproject
 
 # Folders
 /.settings
 /.idea
+/Debug/
+
+# Files
+CMakeLists.txt
