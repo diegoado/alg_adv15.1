@@ -17,7 +17,7 @@
 
 using namespace std;
 
-int auxcalc(int &x, int div) {
+int aux_calc(int &x, int div) {
 	int count = 0;
 	while(x % div == 0) {
 		x /= div;
@@ -27,9 +27,9 @@ int auxcalc(int &x, int div) {
 }
 
 void calc(int &a, int &b, int &step) {
-	step += abs(auxcalc(a, 2) - auxcalc(b, 2)) +
-			abs(auxcalc(a, 3) - auxcalc(b, 3)) +
-			abs(auxcalc(a, 5) - auxcalc(b, 5));
+	step += abs(aux_calc(a, 2) - aux_calc(b, 2)) +
+			abs(aux_calc(a, 3) - aux_calc(b, 3)) +
+			abs(aux_calc(a, 5) - aux_calc(b, 5));
 }
 
 int main() {
